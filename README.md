@@ -7,8 +7,8 @@
 ## Contributors
 
 - **Organisation:** [APEXNova Labs](https://github.com/APEXNovaLabs)
-- **[Aina Maminirina](https://github.com/AinaMaminirina18)**
-- **[Josoa Vonjiniaina](https://github.com/josoavj)**
+- **[AinaMaminirina](https://github.com/AinaMaminirina18)**
+- **[josoavj](https://github.com/josoavj)**
 
 ### Cloning
 
