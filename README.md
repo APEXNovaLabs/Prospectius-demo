@@ -1,14 +1,28 @@
-# About the project
+<h1 align="center">Prospectius</h1>
 
-- **Description:** A simple python project that manages prospecting data in a company.
+<p align="center">
+  <strong>A software that manages prospecting data in a company.</strong>
+</p>
+
+<p align="center">
+  <!-- Badges -->
+  <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
+  <img src="https://img.shields.io/github/last-commit/josoavj/prospectius" alt="Last Commit">
+  <img src="https://img.shields.io/github/stars/josoavj/prospectius?style=social" alt="GitHub Stars">
+</p>
+ 
+
+## About the project
+
+- **Version :** 1.0.0
 - **Techno:** KivyMD
 - **Database:** MySQL (Mariadb)
 
 ## Contributors
 
 - **Organisation:** [APEXNova Labs](https://github.com/APEXNovaLabs)
-- **[AinaMaminirina](https://github.com/AinaMaminirina18)**
-- **[josoavj](https://github.com/josoavj)**
+- **[Aina Maminirina](https://github.com/AinaMaminirina18)**
+- **[Josoa Vonjiniaina](https://github.com/josoavj)**
 
 ### Cloning
 
