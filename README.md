@@ -1,4 +1,4 @@
-<h1 align="center">Prospectius</h1>
+<h1 align="center">Prospectius (Demo)</h1>
 
 <p align="center">
   <strong>A software that manages prospecting data in a company.</strong>
@@ -14,7 +14,7 @@
 
 ## About the project
 
-- **Version :** 1.0.0
+- **Version :** 1.0.0 Beta
 - **Techno:** KivyMD
 - **Database:** MySQL (Mariadb)
 
